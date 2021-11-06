@@ -9,6 +9,7 @@ YuniFi:
   base-colors-orange: 'rgba(243,156,18,1)'
   base-colors-dark_orange: 'rgba(235,94,40,1)'
   base-colors-magenta: 'rgba(245,23,79,1)'
+  sprinkler-off-outline: 'rgba(125,125,125,1)'
 
   # Fonts - https://fonts.googleapis.com/css2?family=Lato ( <-- add to resources in Lovelace Dashboards Config / Resources tab )
   primary-font-family: 'Lato,sans-serif'
@@ -114,6 +115,7 @@ YuniFi:
   # Mini Mediaplayer
   mini-media-player-base-color: 'var(--text-color)'
   mini-media-player-accent-color: 'var(--base-colors-yellow)'
+  mini-media-player-button-color: 'rgba(255,255,255,0.1)'
 
   # Alarm
   alarm-color-armed: 'var(--base-colors-red)'
