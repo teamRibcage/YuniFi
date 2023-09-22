@@ -1,3 +1,7 @@
+## End of Support
+
+As Ubiquiti has now officially ended support for their "Legacy" user interface (which this theme was intended to complement), this repository is no longer being actively updated or maintained. Thank you to all who supported it!
+
 # YuniFi
 A [HomeAssistant](https://www.home-assistant.io/) theme inspired by Ubiquiti's UniFi interface and [aFFekopp](https://github.com/aFFekopp)/[noctis](https://github.com/aFFekopp/noctis)
 
